@@ -47,7 +47,7 @@ savings_y2 = []
 savings_x = []
 
 for block in tqdm(range(1, 10)):
-    granularity = 200
+    granularity = 30
     y1, y2 = sim(block * granularity)
     savings_y1.append(y1)
     savings_y2.append(y2)
