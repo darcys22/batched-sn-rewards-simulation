@@ -26,3 +26,7 @@ make run
 ```
 
 which will build a virtualenv specific for this project in the `venv` folder. Will also run using that environment
+
+## Results
+
+![results](https://github.com/darcys22/batched-sn-rewards-simulation/blob/master/batched_savings.png)
